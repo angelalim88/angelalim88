@@ -1,5 +1,5 @@
 # Hello World! 👋🏻, I'm Richard
-A Passionate Web App Developer<br>
+#### A Passionate Web App Developer<br>
 🌱 Currently learning web app development<br>
 🧑🏻‍💻 Love to learn new interesting things in finance, quant & blockchain<br>
 📈 Hobby: do business :D <br>
