@@ -1,6 +1,6 @@
 # Hello World! 👋🏻, I'm Richard
-A Passionate Web App Developer
-🌱 Currently learning web app development
+A Passionate Web App Developer<br>
+🌱 Currently learning web app development<br>
 🧑🏻‍💻 Love to learn new interesting things in finance, quant & blockchain<br>
 📈 Hobby: do business :D <br>
 📩 How to reach me <i>richardangelico88@gmail.com</i>
