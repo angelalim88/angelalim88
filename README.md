@@ -15,4 +15,4 @@
 </picture>
 
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=angelalim88/Satoshi-Bank-ChatBot&label=Views&countColor=%23263759)
+<img src="https://api.visitorbadge.io/api/visitors?path=angelalim88/Satoshi-Bank-ChatBot&label=Views&countColor=%23263759" width="120"/>
