@@ -13,3 +13,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/angelalim88/angelalim88/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/angelalim88/angelalim88/output/github-snake.svg" />
 </picture>
+
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=angelalim88/Satoshi-Bank-ChatBot&label=Views&countColor=%23263759)
